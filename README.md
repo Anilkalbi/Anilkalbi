@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android ,Java & MEARN**
+- 💬 Ask me about **Java & MEARN**
 
 - 📫 How to reach me **anilpatelnk@gmail.com**
 
