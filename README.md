@@ -9,9 +9,13 @@
 <p align="left"> <a href="https://x.com/Anilpatelnk" target="blank"><img src="https://img.shields.io/twitter/follow/Anil patel?logo=twitter&style=for-the-badge" alt="Anil Patel"  </p>
 
 - 🚀 Passionate about building robust, scalable applications using Java, Spring, JDBC, and MySQL.
+ 
 - 🔧 Skilled in full-stack development with experience in front-end technologies like HTML, CSS, JavaScript, and Bootstrap.
+ 
 - ☁️ Currently exploring cloud deployment (AWS) and microservices.
+ 
 - 📚 Always learning | Open-source contributor | Tech problem solver
+ 
 - 📬 Let's connect and build something amazing!
 
 <h3 align="left">Connect with me:</h3>
