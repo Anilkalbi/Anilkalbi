@@ -14,7 +14,7 @@
  
 - ☁️ Currently exploring cloud deployment (AWS) and microservices.
  
-- 📚 Always learning | Open-source contributor | Tech problem solver
+- 📚 Always learning | problem solver
  
 - 📬 Let's connect and build something amazing!
 
