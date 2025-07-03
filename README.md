@@ -8,6 +8,9 @@ Email Me 👉 ✉️ **anilpatelnk@gmail.com** For Collaboration/Project or Anyt
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Nickname:** Kalbi 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.kalbi6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anil Patel N) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Anil Kalbi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26134945) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilpatelnk@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
