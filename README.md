@@ -1,3 +1,6 @@
+https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE1NTA4OTEsIm5iZiI6MTc1MTU1MDU5MSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzAzVDEzNDk1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiMjA4MTU1ZGY4M2FhYWM3MDk4YTY3MzEzNTE3NjgzMmIyODA0MTNiMzg3NWQ5MGU1ZDgwNTRkYmZjYTc3NmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GGFUSGCBjdCMiUfovofuP7ZXSCIRcmrifBHOAXr5vnM
+
+
 <h1 align="center"> 💫 Hi 👋, I'm Anil Patel N </h1>
 <h1 align="center">🎯 A passionate Full Stack Developer && DevOps Engineer from India </h1>
 
@@ -12,7 +15,10 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-patel-n) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26134945) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilpatelnk@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-patel-n) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26134945) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilpatelnk@gmail.com) <p align="left">
+<a href="https://www.leetcode.com/https://leetcode.com/u/anilpatelnk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anilpatelnk/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/explore?page=1&category=java&sortby=submissions&itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/explore?page=1&category=java&sortby=submissions&itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header" height="30" width="40" /></a>
+</p>
 <!-- Snake Game Repo View -->
 
 <div align="center">
