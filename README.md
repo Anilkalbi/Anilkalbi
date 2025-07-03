@@ -15,9 +15,13 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-patel-n) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26134945) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilpatelnk@gmail.com) <p align="left">
-<a href="https:https://leetcode.com/u/anilpatelnk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anilpatelnk/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/explore?page=1&category=java&sortby=submissions&itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/explore?page=1&category=java&sortby=submissions&itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header" height="30" width="40" /></a>
+<p align="left">
+<a href="https://twitter.com/https://x.com/anilpatelnk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/anilpatelnk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anil-patel-n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anil-patel-n/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26134945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26134945" height="30" width="40" /></a>
+<a href="https://instagram.com/a.kalbi6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.kalbi6" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/anilpatelnk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anilpatelnk/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/anilpaktnn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/anilpaktnn/" height="30" width="40" /></a>
 </p>
 <!-- Snake Game Repo View -->
 
