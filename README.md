@@ -1,7 +1,7 @@
 <h1 align="center"> 💫 Hi 👋, I'm Anil Patel N </h1>
-A passionate Full Stack Developer || DevOps Engineer from India
+🎯 A passionate Full Stack Developer || DevOps Engineer from India
 
-Email Me 👉 ✉️ **anilpatelnk@gmail.com For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ anilpatelnk@gmail.com For Collaboration 😊😊
 
 - 🔭 I’m currently working on: BY-GET(An Trading Platform)
 - 🌱 I’m currently learning: AWS and Spring Boot
@@ -28,10 +28,10 @@ Email Me 👉 ✉️ **anilpatelnk@gmail.com For Collaboration/Project or Anythi
 ![](https://github-readme-stats.vercel.app/api?username=AnilKalbi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnilKalbi&theme=dark&hide_border=false)
 
-<h1 align="center"> ✍️  Dev Quote</h1>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+✍️  Dev Quote
+<h1 align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</h1>
 
-### 🔝 Top Contributed Repo
+🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AnilKalbi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
