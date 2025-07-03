@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Anil Patel N
+<h1 align="center"># 💫 Hi 👋, I'm Anil Patel N </h1>
 **A passionate Full Stack Developer || DevOps Engineer from India**
 
 Email Me 👉 ✉️ **anilpatelnk@gmail.com** For Collaboration/Project or Anything Else. 😊😊
