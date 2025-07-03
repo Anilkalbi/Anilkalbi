@@ -4,7 +4,7 @@
 <h1 align="center"> 💫 Hi 👋, I'm Anil Patel N </h1>
 <h1 align="center">🎯 A passionate Full Stack Developer && DevOps Engineer from India </h1>
 
- <img align="right" alt="Coding" width="265" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <img align="right" alt="Coding" width="245" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on: BY-GET(An Trading Platform)
 - 🌱 I’m currently learning: AWS and Spring Boot
