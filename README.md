@@ -9,9 +9,7 @@
 - 😄 Nickname: Kalbi 
 - ⚡ Fun fact: I Love Tech and Tech Love Me
 
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-🌐 Socials:
+## 🌐 Socials:
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26134945) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilpatelnk@gmail.com) 
 <!-- Snake Game Repo View -->
