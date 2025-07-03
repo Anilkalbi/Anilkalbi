@@ -1,13 +1,13 @@
-<h1 align="center"># 💫 Hi 👋, I'm Anil Patel N </h1>
-**A passionate Full Stack Developer || DevOps Engineer from India**
+<h1 align="center"> 💫 Hi 👋, I'm Anil Patel N </h1>
+A passionate Full Stack Developer || DevOps Engineer from India
 
 Email Me 👉 ✉️ **anilpatelnk@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** BY-GET(An Trading Platform)
-- 🌱 **I’m currently learning:** AWS and Spring Boot
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Nickname:** Kalbi 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 I’m currently working on:** BY-GET(An Trading Platform)
+- 🌱 I’m currently learning:** AWS and Spring Boot
+- 📫 How to reach me:** Enter your email here
+- 😄 Nickname:** Kalbi 
+- ⚡ Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26134945) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilpatelnk@gmail.com) 
