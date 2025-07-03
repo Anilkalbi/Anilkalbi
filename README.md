@@ -10,6 +10,7 @@ Email Me 👉 ✉️ anilpatelnk@gmail.com For Collaboration 😊😊
 - ⚡ Fun fact: I Love Tech and Tech Love Me
 
 🌐 Socials:
+
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26134945) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilpatelnk@gmail.com) 
 <!-- Snake Game Repo View -->
 
@@ -29,7 +30,7 @@ Email Me 👉 ✉️ anilpatelnk@gmail.com For Collaboration 😊😊
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnilKalbi&theme=dark&hide_border=false)
 
 ✍️  Dev Quote
-<h1 align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</h1>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AnilKalbi&limit=5&theme=dark&combine_all_yearly_contributions=true)
