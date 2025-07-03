@@ -16,7 +16,7 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-patel-n) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26134945) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilpatelnk@gmail.com) <p align="left">
-<a href="https://www.leetcode.com/https://leetcode.com/u/anilpatelnk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anilpatelnk/" height="30" width="40" /></a>
+<a href="https:https://leetcode.com/u/anilpatelnk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anilpatelnk/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/explore?page=1&category=java&sortby=submissions&itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/explore?page=1&category=java&sortby=submissions&itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header" height="30" width="40" /></a>
 </p>
 <!-- Snake Game Repo View -->
