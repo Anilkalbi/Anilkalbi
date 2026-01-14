@@ -6,11 +6,11 @@
 
  <img align="right" alt="Coding" width="245" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on: LMUT (Network Automation)
-- 🌱 I’m currently learning: Computer Networking and Spring Boot
+- 🔭 I’m currently working as :Network Automation Engineer
+- 🌱 I’m currently learning: Computer Networking 
 - 📫 How to reach me: anilpatelnk@gmail.com
 - 😄 Nickname: Kalbi 
-- ⚡ Fun fact: I Love Tech and Tech Love Me
+- ⚡ Fun fact: Go With The Flow....
 
 
 ## 🌐 Socials:
