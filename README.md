@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as :Network Automation Engineer
 - 🌱 I’m currently learning: Computer Networking 
-- 📫 How to reach me: anilpatelnk@gmail.com
+- 📫 How to reach me: anilkalbi6@gmail.com
 - 😄 Nickname: Kalbi 
 - ⚡ Fun fact: Go With The Flow....
 
